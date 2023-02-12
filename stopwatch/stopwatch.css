@@ -1,0 +1,22 @@
+.timeb{
+    width: 70px;
+    height: 20px;
+    cursor:pointer;
+    font-family: 'Courier New', Courier, monospace;
+    border: 2px solid;
+    border-radius: 13px;
+    color: white;
+    background-color: black;
+}
+#timed{
+    font-size: 80px;
+    font-family:consolas, monospace;
+    color: blueviolet;
+}
+#timec{
+    border: 4px solid;
+    border-radius: 20px;
+    border-color:black;
+    background-color: #222222;
+    text-align: center;
+}
