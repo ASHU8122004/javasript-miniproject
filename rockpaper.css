@@ -1,0 +1,33 @@
+#rockpaper{
+    font-family:'Courier New', Courier, monospace;
+    background-color:cadetblue;
+    border-radius: 30px;
+    text-align: center;
+    border: 5px solid;
+    padding: 12px;
+}
+#playername{
+    font-family: cursive;
+    color: rebeccapurple;
+    text-shadow: 2px 2px 8px oldlace;
+}
+#computername{
+    font-family: cursive;
+    color: #00ff00;
+    text-shadow: 2px 2px 8px indianred;
+}
+#resultname{
+    font-family: cursive;
+    color: rgb(201, 76, 76);
+    text-shadow: 2px 2px 8px blue;
+}
+.btn{
+    width: 80px;
+    height: 30px;
+    cursor:pointer;
+    font-family: 'Courier New', Courier, monospace;
+    border: 2px solid;
+    border-radius: 15px;
+    color: black;
+    background-color: lightgrey;
+}
